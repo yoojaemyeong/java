@@ -8,6 +8,6 @@
   1. [프로그램가이드](https://github.com/yoojaemyeong/java/blob/main/1%EC%9D%B81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4%20%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A0%9C.pdf)
   2. [자바 개요](https://github.com/yoojaemyeong/java/java-overview.ipynb)
   3. [try-catch-finally](https://github.com/yoojaemyeong/java/try-catch-finally.ipynb)
-  4. [최적화-다중정의 사용](https://github.com/yoojaemyeong/java/overloading.ipynb)
+  4. [최적화-overloading 주의사항](https://github.com/yoojaemyeong/java/overloading.ipynb)
   5. [최적화-상수대신 열거타입사용](https://github.com/yoojaemyeong/java/java1.ipynb)
      
