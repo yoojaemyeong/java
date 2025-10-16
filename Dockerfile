@@ -21,4 +21,4 @@ RUN wget -q https://github.com/SpencerPark/IJava/releases/download/v1.3.0/ijava-
     rm -rf /tmp/ijava ijava-1.3.0.zip
 
 # 기본 작업 폴더
-WORKDIR /home/jovyan/work
+WORKDIR /home/jovyan
